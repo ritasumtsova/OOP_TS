@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "removeComments": true,
+        //"outDir": "dist",
+        //"sourceMap": true,
+        "outFile" : "./index.js",
+        "noEmitOnError": true,
+    },
+
+    "include": [
+        "src"
+    ]
+}
